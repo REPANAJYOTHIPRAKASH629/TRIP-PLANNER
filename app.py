@@ -83,7 +83,7 @@ if st.sidebar.button("🚀 Generate Itinerary"):
                 - Suggested hotels with 1-2 budget options
                 - Transportation details (e.g., Uber, walking, train) between major points
                 - Local tips (e.g., cultural etiquette, weather, packing suggestions)
-                - Estimated cost breakdown for the day in USD
+                - Estimated cost breakdown for the day in Indian Rupees (₹), not USD
                 - Any hidden gems or offbeat suggestions
 
                 Format each day clearly under a heading: “Day X: [Title]”
